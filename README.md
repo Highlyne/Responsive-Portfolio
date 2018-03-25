@@ -17,9 +17,12 @@ Meta viewport tag has been included in all HTML files for the media queires to f
 Here are screenshots of the About page showing the breakpoints. 
 ### Index 980px
 
+![980px ScreenShot](https://github.com/Highlyne/Responsive-Portfolio/blob/master/images/980pxPic.png "About Page @ 980px and below")
 
 ### Index 768px
 
+![786px ScreenShot](https://github.com/Highlyne/Responsive-Portfolio/blob/master/images/768pxPic.png "About Page @ 768px and below")
 
 ### Index 640px
 
+![640px ScreenShot](https://github.com/Highlyne/Responsive-Portfolio/blob/master/images/640pxPic.png "About Page @ 640px and below")
